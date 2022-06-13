@@ -1,0 +1,30 @@
+"Source:","C:\Users\xmila\Documents\Programovani\bomb\bomba-basic-seriova\bomba-robotabor.kicad_sch"
+"Date:","06/13/2022 6:59:32 PM"
+"Tool:","Eeschema (6.0.5)"
+"Generator:","C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","10"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","LCSC","Manufacturer","Package"
+"","","R1","4.7kR","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~","","",""
+"","","R2","100kR","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~","","",""
+"","","R3","100kR","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~","","",""
+"","","R4","4.7kR","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~","","",""
+"","","R5","4.7kR","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~","","",""
+"","","R6","4.7kR","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~","","",""
+"","","R7","100kR","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~","","",""
+"","","U1","74HC03","bomba-robotabor-rescue:74HC03-74HCT107N-bomba-robotabor-rescue","Package_DIP:DIP-14_W7.62mm","","C352835","NXP Semiconductors","DIP254P762X508-14"
+"","","U2","74HCT08","bomba-robotabor-rescue:74HCT08-74HCT107N-bomba-robotabor-rescue","Package_DIP:DIP-14_W7.62mm","","C352835","NXP Semiconductors","DIP254P762X508-14"
+"","","U3","L4904","bomba-robotabor-rescue:L4904-l4904-bomba-robotabor-rescue","Package_DIP:DIP-8_W7.62mm","","C99439","",""
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","LCSC","Manufacturer","Package"
+"1","4","R1, R4, R5, R6","4.7kR","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~","","",""
+"2","3","R2, R3, R7","100kR","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~","","",""
+"3","1","U1","74HC03","bomba-robotabor-rescue:74HC03-74HCT107N-bomba-robotabor-rescue","Package_DIP:DIP-14_W7.62mm","","C352835","NXP Semiconductors","DIP254P762X508-14"
+"4","1","U2","74HCT08","bomba-robotabor-rescue:74HCT08-74HCT107N-bomba-robotabor-rescue","Package_DIP:DIP-14_W7.62mm","","C352835","NXP Semiconductors","DIP254P762X508-14"
+"5","1","U3","L4904","bomba-robotabor-rescue:L4904-l4904-bomba-robotabor-rescue","Package_DIP:DIP-8_W7.62mm","","C99439","",""
